@@ -81,11 +81,11 @@
 
    - **Доход от ставок фондирования:**
      - На бирже A (лонг):
-       - Обычно платится ставка фондирования: $$\( P_{\text{fund\_A}} = -Q \times F_A \times T \)$$.
+       - Обычно платится ставка фондирования: $$\( P_{\text{fund\_A}} = -Q \times F_A \times T \).$$
      - На бирже B (шорт):
-       - Обычно получают ставку фондирования: $$\( P_{\text{fund\_B}} = Q \times F_B \times T \)$$.
+       - Обычно получают ставку фондирования: \( P_{\text{fund\_B}} = Q \times F_B \times T \).
      - **Общий доход от ставок фондирования:**
-       - \$$( P_{\text{fund}} = P_{\text{fund\_A}} + P_{\text{fund\_B}} = Q \times (F_B - F_A) \times T = Q \times \Delta F \times T \)$$.
+       - \( P_{\text{fund}} = P_{\text{fund\_A}} + P_{\text{fund\_B}} = Q \times (F_B - F_A) \times T = Q \times \Delta F \times T \).
 
    -**Комиссии и издержки:**
      - Торговые комиссии при открытии и закрытии позиций:
